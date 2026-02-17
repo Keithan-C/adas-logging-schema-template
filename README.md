@@ -1,0 +1,1 @@
+# adas-logging-schema-template
